@@ -1,5 +1,11 @@
 #include <stdio.h>
 
+/*
+Author: Simon Ngigi Wainaina
+Admission Number: BCS-0538/2026
+Date: 22th september 2026
+*/
+
 //my units as a computer science student on my first semester
 int main()
 {

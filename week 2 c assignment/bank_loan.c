@@ -1,5 +1,11 @@
 #include <stdio.h>
 
+/*
+Author: Simon Ngigi Wainaina
+Admission Number: BCS-0538/2026
+Date: 22th september 2026
+*/
+
 //a pproject to determine if a dude is eligible for loan based on his age and income
 
 int main()

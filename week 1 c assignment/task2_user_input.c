@@ -1,5 +1,11 @@
 #include <stdio.h>
 
+/*
+Author: Simon Ngigi Wainaina
+Admission Number: BCS-0538/2026
+Date: 22th september 2026
+*/
+
 //a short project to get some user info
 
 int main()

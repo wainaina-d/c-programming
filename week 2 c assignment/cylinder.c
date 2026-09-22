@@ -1,4 +1,9 @@
 #include <stdio.h>
+/*
+Author: Simon Ngigi Wainaina
+Admission Number: BCS-0538/2026
+Date: 22th september 2026
+*/
 #define PI 3.14159
 
 //damn, this is probably my first sort of calculator created in C, and it calculates the volume and surface area of a cylinder based on user input for radius and height.
